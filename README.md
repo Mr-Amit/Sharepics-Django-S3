@@ -16,3 +16,9 @@ Featuring:
 1. Start services - `docker-compose up -d`
 1. Create migrations - `docker-compose run web /usr/local/bin/python manage.py migrate`
 1. Grab IP - `docker-machine ip dev` - and view in your browser
+
+## Website Preview
+
+![](https://imgur.com/1ObzFZw.png)
+
+![](https://imgur.com/1ObzFZw.png)
